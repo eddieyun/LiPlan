@@ -1,2 +1,6 @@
 # LiPlan
 LiPlan: A Multimodal Dataset for Livable Urban Environment Layout Generation
+
+# Introduction
+In urban planning, generating urban environmental layouts is crucial for balancing functionality, aesthetics, and sustainability. However, existing studies mainly suffer from three major problems, namely “limited data resources,” “lack of unified assessment indicators,” and “neglect of multivariate features.” To this end, we propose LiPlan, the first large-scale multimodal dataset of livability layout of urban environments, which covers 11,000 matched pairs of samples from 104 cities around the world, comprehensively captures a wide range of urban features such as roads, buildings, greenery, water bodies, etc., and provides a unified assessment framework to quantify the livability of urban environments from the perspective of ecological land use and urban heat island effect. We validate the utility of LiPlan by applying two GAN-based generative models and propose a condition-driven two-stage generative model based on the dataset's characteristics to achieve high-quality and controllable layout generation.
+![E](https://github.com/user-attachments/assets/16f49dec-b8b7-4957-97db-f901d8dd6585)
